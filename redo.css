@@ -1,0 +1,10 @@
+.hero {
+    height: 300px;
+    place-content: center;
+}
+
+.hero-section {
+    place-content: center;
+    height: 600px;
+    margin-top: 50px;
+}
